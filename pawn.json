@@ -1,6 +1,12 @@
 {
-	"user": "rsetiawan7",
+	"user": "emmet-jones",
 	"repo": "New-SA-MP-callbacks",
+	"contributors": [
+		"Emmet_",
+		"MySekwel",
+		"taviss",
+		"ziggi"
+	],
 	"entry": "filterscripts\\example.pwn",
 	"output": "filterscripts\\example.amx",
 	"dependencies": [
